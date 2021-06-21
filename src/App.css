@@ -97,7 +97,6 @@ h3{
 }
 .smargin{
   margin-right: 4%;
-  margin-bottom: 2%;  
 }
 
 .ssmargin{
@@ -108,8 +107,8 @@ h3{
 
 .linemargin{
   margin-right: 1%;
-  margin-bottom: 2.3%;  
 }
+
 
 .marginn{
   margin-right: 75%;
@@ -127,9 +126,32 @@ h3{
   width: 100%;
 }
 
+.tt{
+  margin-left: 2%;
+}
 
 /* ----Product page css start---- */
-.ppmd{
-  margin-left: 35%;
-  margin-top: 5%;
+.pph{
+  font-family: 'Montserrat', sans-serif;
 }
+
+.pnmargin{
+  margin-left: 27%;
+}
+
+.showall{
+  margin-left: 46%;
+}
+
+.pnavbar{
+  margin-left: 28%;
+}
+
+.hrl{
+  color: 'gray';
+  background-Color: 'gray';
+  width: 50%;
+  margin-left: 24%; 
+  
+}
+
